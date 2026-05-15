@@ -1,2 +1,2 @@
 # FractionalCalc
-A Fractions Calculator for macOS and iOS
+A product support website for the Fractions Calculator app, available on the Apple App Store for macOS and iOS.

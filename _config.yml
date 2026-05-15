@@ -1,0 +1,13 @@
+title: Fractions Calculator Support
+description: Help, user guide, and support for Fractions Calculator — the fraction math app for iPhone, iPad, and Mac.
+url: ""
+
+# Tells GitHub Pages to serve plain HTML — no Jekyll theme applied
+theme: null
+
+# Exclude dev/editor files from the published site
+exclude:
+  - README.md
+  - LICENSE
+  - "*.sh"
+  - ".claude/"
